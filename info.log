@@ -11,3 +11,8 @@
 {"message":"Unauthorized request to path: /bookmarks","level":"error"}
 {"message":"Bookmark with id b1b924eb-65ba-425b-a5b0-63b98484db90 created","level":"info"}
 {"message":"Unauthorized request to path: /bookmarks/b1b924eb-65ba-425b-a5b0-63b98484db90","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 3b8575a4-ed92-4149-adf3-28ef434e9e77 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/b1b924eb-65ba-425b-a5b0-63b98484db90","level":"error"}
+{"message":"Bookmark with id b1b924eb-65ba-425b-a5b0-63b98484db90 not found.","level":"error"}
+{"message":"Unauthorized request to path: /movie","level":"error"}
