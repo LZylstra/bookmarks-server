@@ -20,7 +20,7 @@ app.use(helmet())
 app.use(validateBearerToken)
 
 app.use('/bookmarks', bookmarkRouter)
-
+app.get('/', (req, res) => { res.send('Hello, world!'); });
 app.use(errorHandler)
 
 module.exports = app
